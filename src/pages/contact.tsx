@@ -29,17 +29,7 @@ const contacts = [
     Comp: Envelope,
     alt: 'envelope icon',
     link: 'mailto:vivekshotti@gmail.com',
-  },
-  {
-    Comp: Facebook,
-    alt: 'fb icon',
-    link: 'https://www.facebook.com/vivek.hotti.9/',
-  },
-    {
-    Comp: Instagram,
-    alt: 'Insta icon',
-    link: 'https://www.instagram.com/vivek_hotti/',
-  },
+  }
 ]
 
 export default function Contact() {
