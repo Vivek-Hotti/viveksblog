@@ -18,7 +18,7 @@ const Header = ({ titlePre = '' }) => {
   return (
     <header className={styles.header}>
       <Head>
-        <title>{titlePre ? `${titlePre} |` : ''} My Notion Blog</title>
+        <title>{titlePre ? `${titlePre} |` : ''} Vivek's Blog</title>
         <meta
           name="description"
           content="An example Next.js site using Notion for the blog"
