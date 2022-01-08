@@ -1,4 +1,9 @@
-# Notion Blog
+# Viveks Blog
+
+Head on to : https://viveksblog.vercel.app/
+
+
+<!-- # Notion Blog
 
 This is an example Next.js project that shows Next.js' upcoming SSG (static-site generation) support using Notion's **private** API for a backend.
 
@@ -83,3 +88,4 @@ To run the project locally you need to follow steps 1 and 2 of [deploying](#depl
 - Guillermo Rauch [@rauchg](https://twitter.com/rauchg) for the initial idea
 - Shu Ding [@shuding\_](https://twitter.com/shuding_) for the design help
 - Luis Alvarez [@luis_fades](https://twitter.com/luis_fades) for design help and bug catching
+ -->
