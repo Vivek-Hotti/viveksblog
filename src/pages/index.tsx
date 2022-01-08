@@ -9,7 +9,7 @@ export default function Index() {
       <Header titlePre="Home" />
       <div className={sharedStyles.layout}>
         <h1>Labor Omnia Vincit</h1>
-        <h2><i> Work Conquers All </i></h2><br>
+        <h2><i> Work Conquers All </i></h2><br />
         <h2>
           A Personal Blog of'{' '}
           <ExtLink
@@ -25,35 +25,25 @@ export default function Index() {
 
         <div className="explanation">
           <p>
-            This is a statically generated{' '}
+            👋Hey there, this is Vivek Shivakumar Hotti.
+          </p>
+          <p>
+            I am a 3rd year undergrad majoring in Computer Science & Engineering from 
+            University of Mumbai (India). Welcome to my personal blog. Here I usually 
+            pen down what I Think, Percieve, Learn & Predict. (At least that's the plan
+            for now)
+          </p>
+          <p>
+            I keep keen interests in Algorithms, Backend Infrastructure Development, Machine Learning, 
+            Finance, Economics, Web3.0 and other open ended areas of human advancement.
+          </p>
             <ExtLink href="https://nextjs.org">Next.js</ExtLink> site with a{' '}
             <ExtLink href="https://notion.so">Notion</ExtLink> powered blog that
             is deployed with <ExtLink href="https://vercel.com">Vercel</ExtLink>
-            . It leverages some upcoming features in Next.js like{' '}
-            <ExtLink href="https://github.com/vercel/next.js/issues/9524">
-              SSG support
-            </ExtLink>{' '}
-            and{' '}
-            <ExtLink href="https://github.com/vercel/next.js/issues/8626">
-              built-in CSS support
-            </ExtLink>{' '}
-            which allow us to achieve all of the benefits listed above including
-            blazing fast speeds, great local editing experience, and always
-            being available!
-          </p>
-
-          <p>
-            Get started by creating a new page in Notion and clicking the deploy
-            button below. After you supply your token and the blog index id (the
-            page's id in Notion) we will automatically create the table for you!
-            See{' '}
-            <ExtLink href="https://github.com/ijjk/notion-blog#getting-blog-index-and-token">
-              here in the readme
-            </ExtLink>{' '}
-            for finding the new page's id. To get your token from Notion, login
-            and look for a cookie under www.notion.so with the name `token_v2`.
-            After finding your token and your blog's page id you should be good
-            to go!
+            . Know more about me by hopping on to the Contact section or Contact me instantly through{' '}
+            <ExtLink href="mailto:vivekshotti@gmail.com">
+              Mail
+            </ExtLink>
           </p>
         </div>
       </div>
