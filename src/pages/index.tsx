@@ -8,21 +8,16 @@ export default function Index() {
     <>
       <Header titlePre="Home" />
       <div className={sharedStyles.layout}>
-        <img
-          src="/vercel-and-notion.png"
-          height="85"
-          width="250"
-          alt="Vercel + Notion"
-        />
-        <h1>My Notion Blog</h1>
+        <h1>Labor Omnia Vincit</h1>
+        <h2><i> Work Conquers All </i></h2><br>
         <h2>
-          Blazing Fast Notion Blog with Next.js'{' '}
+          A Personal Blog of'{' '}
           <ExtLink
-            href="https://github.com/vercel/next.js/issues/9524"
+            href="https://www.linkedin.com/in/vivekhotti/"
             className="dotted"
             style={{ color: 'inherit' }}
           >
-            SSG
+            <b>Vivek Shivakumar Hotti</b>
           </ExtLink>
         </h2>
 
