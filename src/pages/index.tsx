@@ -21,8 +21,6 @@ export default function Index() {
           </ExtLink>
         </h2>
 
-        <Features />
-
         <div className="explanation">
           <p>
             👋Hey there, this is Vivek Shivakumar Hotti.
