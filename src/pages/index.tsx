@@ -37,10 +37,8 @@ export default function Index() {
             I keep keen interests in Algorithms, Backend Infrastructure Development, Machine Learning, 
             Finance, Economics, Web3.0 and other open ended areas of human advancement.
           </p>
-            <ExtLink href="https://nextjs.org">Next.js</ExtLink> site with a{' '}
-            <ExtLink href="https://notion.so">Notion</ExtLink> powered blog that
-            is deployed with <ExtLink href="https://vercel.com">Vercel</ExtLink>
-            . Know more about me by hopping on to the Contact section or Contact me instantly through{' '}
+          <p>
+            Know more about me by hopping on to the Contact section or Contact me instantly through{' '}
             <ExtLink href="mailto:vivekshotti@gmail.com">
               Mail
             </ExtLink>
